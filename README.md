@@ -1,1 +1,3 @@
-# data_science
+# Data Science Practices
+
+Giuliano Crenna
